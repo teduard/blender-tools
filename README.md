@@ -1,9 +1,10 @@
 # Blender Experiments
 
+- **BlendFinder** - Scans a directory for all `.blend` files, generates top-view scene previews, and exports all objects to `.glTF` for browser-based 3D viewing via a Three.js renderer.
+- **CameraRenderingAddon** - A Blender Python addon that automates rendering the current scene from multiple camera viewpoints, removing the need for manual camera setup.
+- **AndrewWyethCalendar** - Programmatically generates a calendar using Andrew Wyeth's paintings as assets, combining data templating with Blender's rendering pipeline.
 - **Experiments**: Miscellaneous .blend files for ilustrating 3D modelling, texturing and animation using Blender
-- **AndrewWyethCalendar**: Calendar generator using Andrew Wyeth most known paintings
-- **CameraRenderingAddon**: Custom Python addon for fast rendering of the current scene from multiple points of view
-- **BlendFinder**: Python scripts for scanning a directory for all .blend files, generating top-view preview of the active scene and exporting all objects using the .gltf format for easy viewing withing a Chrome browser based on a Three.JS renderer
+
 
 
 <table>
